@@ -5,5 +5,12 @@
     "amount": 10000,
     "type": "income",
     "date": "2026-11-16"
+  },
+  {
+    "id": 1794801781710,
+    "item": "Saman",
+    "amount": 3000,
+    "type": "kharcha",
+    "date": "2026-11-16"
   }
 ]
